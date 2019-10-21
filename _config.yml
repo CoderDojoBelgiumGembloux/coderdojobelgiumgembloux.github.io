@@ -1,1 +1,50 @@
-theme: jekyll-theme-hacker
+#
+# global configuration
+#
+
+# building
+source: src
+destination: build
+unpublished: false
+lsi: true
+incremental: true
+
+#plugins
+plugins:
+  - jekyll-default-layout
+  - jekyll-relative-links
+#  - jekyll-paginate
+  - jekyll-seo-tag
+
+markdown: kramdown
+
+sass:
+  style: compressed
+
+relative_links:
+  enabled:     true
+  collections: false
+
+# design
+theme: jekyll-theme-slate
+
+# content related
+description: >
+  Site web du CoderDojo Belgium Gembloux.
+repository: https://github.com/CoderDojoBelgiumGembloux/website
+baseurl: /
+url: https://CoderDojoBelgiumGembloux.github.io
+
+navigation:
+  - text: CoderDojo Belgium Gembloux
+    url: /
+
+exclude:
+  - "README.md"
+  - "Gemfil*"
+  - "LICENSE"
+  - vendor
+  - TODO.md
+
+#paginate: 10
+permalink: pretty

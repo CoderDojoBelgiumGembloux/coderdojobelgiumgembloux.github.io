@@ -1,0 +1,16 @@
+div#header_wrap {
+	background: #FFFFFF;
+}
+
+div#header_wrap #logo  {
+	float: left;
+	margin-right: 1em;
+}
+
+div#header_wrap #project_title, div#header_wrap #project_tagline {
+	color: inherit
+}
+
+div#header_wrap .inner {
+	max-width: 700px
+}
