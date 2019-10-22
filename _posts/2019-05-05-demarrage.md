@@ -1,8 +1,7 @@
 ---
-layout: post
-title:  Dojo du 30 juin 2019
+title: Dojo du 05 mai 2019 - premier dojo de Gembloux
 categories: [dojo]
-tags: [atelier-deconecte, scratch, python, codey-rocky]
+tags: [atelier-deconnecte, scratch, python, codey-rocky]
 ---
 
 Voici les différents ateliers disponible, pratiqué ce jour-là :

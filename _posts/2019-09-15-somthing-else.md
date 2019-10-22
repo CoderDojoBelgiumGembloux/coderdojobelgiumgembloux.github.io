@@ -1,8 +1,7 @@
 ---
-layout: post
 title:  Dojo du 15 septembre 2019
 categories: [dojo]
-tags: [atelier-deconecte, arduino, scratch, python, codey-rocky]
+tags: [atelier-deconnecte, arduino, scratch, python, codey-rocky]
 ---
 
 Voici les différents ateliers disponible, pratiqué ce jour-là :

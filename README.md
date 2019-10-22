@@ -11,7 +11,7 @@ Le site se base sur le moteur jekyll. Les pages sont écrites en markdown.
 * [Markdown summary](https://daringfireball.net/projects/markdown/syntax)
 * [Limits](https://help.github.com/en/articles/about-github-pages#usage-limits)
 * [Jekyll plugins](https://help.github.com/en/articles/about-github-pages-and-jekyll#plugins)
-* [Theme de base](https://github.com/wemake-services/jekyll-theme-hackcss)
+* [Theme de base](https://github.com/pages-themes/slate)
 
 ## Création de contenu
 
@@ -22,6 +22,8 @@ Pour pouvoir travailler sur le contenu du site, il faut avoir des notions de
 Pour le reste, c'est relativememnt simple, les fichiers `.md` du dossier `src` sont converti par jekyll en html et rendu disponible sur le site web du dojo. Plus d'information sur comment ajouter du contenu est disponible [ici](https://help.github.com/en/articles/adding-content-to-your-github-pages-site-using-jekyll).
 
 ### Construction local
+
+[Guide de github](https://help.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll)
 
 #### Avec docker
 
@@ -36,3 +38,5 @@ docker run --volume="$PWD:/srv/jekyll" --env BUNDLE_PATH=/srv/jekyll/vendor --rm
 bundle install
 bundle exec jekyll build
 ```
+
+

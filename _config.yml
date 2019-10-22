@@ -3,13 +3,13 @@
 #
 
 # building
-source: src
+source: .
 destination: build
 unpublished: false
 lsi: true
 incremental: true
 
-#plugins
+# plugins
 plugins:
   - jekyll-default-layout
   - jekyll-relative-links
@@ -25,15 +25,12 @@ relative_links:
   enabled:     true
   collections: false
 
-# design
-theme: jekyll-theme-slate
-
 # content related
 description: >
   Site web du CoderDojo Belgium Gembloux.
-repository: https://github.com/CoderDojoBelgiumGembloux/website
+repository: https://github.com/CoderDojoBelgiumGembloux/coderdojobelgiumgembloux.github.io
 baseurl: /
-url: https://CoderDojoBelgiumGembloux.github.io
+url: https://coderdojobelgiumgembloux.github.io
 
 navigation:
   - text: CoderDojo Belgium Gembloux

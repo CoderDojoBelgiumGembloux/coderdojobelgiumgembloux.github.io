@@ -18,4 +18,10 @@ layout: default
     {{ content }}
   </div>
 
+	<span>
+	  {% for tag in page.tags %}
+		{% capture tag_name %}{{ tag }}{% endcapture %}
+		<a href="/tag/{{ tag_name }}">#<nobr>{{ tag_name }}</nobr>&nbsp;</a>
+	  {% endfor %}
+	</span>
 </article>
