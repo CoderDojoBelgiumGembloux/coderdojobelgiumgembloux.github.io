@@ -2,7 +2,7 @@
     <div id="header_wrap" class="outer">
         <header class="inner">
 		<div id="logo">
-			<img src="{{ '/assets/images/logo.svg?v=' | append: site.github.build_revision | relative_url }}">
+			<a href="{{ site.url }}"><img src="{{ '/assets/images/logo.svg?v=' | append: site.github.build_revision | relative_url }}"></a>
 		</div>
 
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
