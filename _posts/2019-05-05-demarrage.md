@@ -13,7 +13,6 @@ Voici les différents ateliers disponibles, pratiqués ce jour-là :
 * Scratch avancé
 * Codey rocky
 
-Note à propos de Python
-=======================
+### Note à propos de Python
 
 Il n'y avait initialement qu'un seul atelier proposé à cette date. C'était l'atelier pour faire des bulles. Les zigzags étaient proposés en exercice. Depuis lors, un document spécifique a été rédigé pour les zigzags.
