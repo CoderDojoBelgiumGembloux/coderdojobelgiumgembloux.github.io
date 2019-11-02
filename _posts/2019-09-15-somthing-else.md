@@ -14,8 +14,7 @@ Voici les différents ateliers disponible, pratiqué ce jour-là :
 * Scratch avancé
 * Codey rocky
 
-À propos de l'atelier Python
-============================
+### À propos de l'atelier Python
 
 Dans cet atelier, les ninjas devaient terminer un programme incomplet. Le
 programme affiche un puzzle que le joueur doit reconstituer.
