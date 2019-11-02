@@ -7,7 +7,7 @@ tags: [atelier-deconnecte, arduino, scratch, python, codey-rocky]
 Voici les différents ateliers disponible, pratiqué ce jour-là :
 
 * Atelier déconnecté
-* Python : ...
+* Python : [minetest](https://amigrave.github.io/coderdojo-minetest/)
 * Arduino
 * Scratch débutant
 * Scratch moyen
