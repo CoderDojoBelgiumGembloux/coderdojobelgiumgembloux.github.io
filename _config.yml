@@ -9,6 +9,8 @@ unpublished: false
 lsi: true
 incremental: true
 
+title: CoderDojo Belgium Gembloux
+
 # plugins
 plugins:
   - jekyll-default-layout
