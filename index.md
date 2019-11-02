@@ -1,8 +1,6 @@
 ---
-Title: dojooooo
+Title: dojo
 ---
-
-# CoderDojo de Gembloux
 
 Sur ce site vous pouvez retrouver la liste des différentes activités pratiqué durant le dojo.
 
